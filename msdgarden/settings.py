@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-uti_su4+u@k(kn9v5^=r1m_a$bxrkf9uk21)mklzq6m_6w3zn^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['msdgarden.onrender.com', 'localhost', '127.0.0.1']
+
 
 
 # Application definition
